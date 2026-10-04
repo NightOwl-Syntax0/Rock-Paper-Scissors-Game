@@ -6,7 +6,7 @@ The player chooses Rock, Paper, or Scissors, and the computer randomly makes its
 
 ## 🚀 Live Demo
 
-//🔗 **[Play the Game](https://nightowl-syntax0.github.io/Rock-Paper-Scissors-Game/)** (need to be updated)
+🔗 **[Play the Game](https://nightowl-syntax0.github.io/Rock-Paper-Scissors-Game/)** 
 
 ## ✨ Features
 
